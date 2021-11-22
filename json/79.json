@@ -1,0 +1,11 @@
+{
+  "name": "BPAC #79",
+  "description": "Baby Princess Ape Club(B.P.A.C) collection. Total 3333, 50% were born in Baby Princess Ape club.",
+  "image": "https://raw.githubusercontent.com/PrincessApeClub/NFTAsset/master/default.gif",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "PreReveal"
+    }
+  ]
+}
