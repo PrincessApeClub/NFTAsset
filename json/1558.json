@@ -1,11 +1,39 @@
 {
   "name": "BPAC #1558",
   "description": "Baby Princess Ape Club(B.P.A.C) collection. Total 3333, 50% were born in Baby Princess Ape club.",
-  "image": "https://raw.githubusercontent.com/PrincessApeClub/NFTAsset/master/default.gif",
+  "image": "https://raw.githubusercontent.com/PrincessApeClub/NFTAsset/master/images/1558.png",
   "attributes": [
     {
-      "trait_type": "Status",
-      "value": "PreReveal"
+      "trait_type": "Background",
+      "value": "Grayish green"
+    },
+    {
+      "trait_type": "Balloon",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Starry sky"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion glasses"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Red Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Crystal teeth"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Spacesuit"
+    },
+    {
+      "trait_type": "Headdress",
+      "value": "Nautical cap"
     }
   ]
 }
